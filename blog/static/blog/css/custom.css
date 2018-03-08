@@ -239,6 +239,9 @@ img {
     font-weight: 300;
     color: #000;
 }
+.entry-content a{
+    color:#2690e4
+}
 
 .post-category::after,
 .post-date::after,
